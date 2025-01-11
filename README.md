@@ -5,4 +5,4 @@ This project analyzes customer churn for the company Interconnect. It uses vario
 Accuracy and AUC-ROC are used for scoring.
 
 on GitHub: 
-
+https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/main/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb
